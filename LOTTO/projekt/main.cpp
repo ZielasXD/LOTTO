@@ -52,7 +52,7 @@ int main()
 			licznik++;
 			break;
 		}
-	cout << "\n\nWytypowales dobrze " << licznik << " liczb\n";
+	cout << "Wytypowales dobrze " << licznik << " liczb";
 	cout << endl;
 	system("PAUSE");
 	return 0;
